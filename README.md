@@ -4,4 +4,4 @@
 # Music-Cord
 A simple Discord music bot.
 
-![Bot Avatar](http://i68.tinypic.com/2els5ue.png)
+![Bot Avatar](http://i68.tinypic.com/2yn008h.png)
