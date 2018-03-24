@@ -1,5 +1,5 @@
-![GitHub release](https://img.shields.io/github/release/JGriffin34432/music-cord.svg?style=for-the-badge)
-![license](https://img.shields.io/github/license/JGriffin34432/Music-cord.svg?style=for-the-badge)
+![GitHub release](https://img.shields.io/github/release/JGriffin34432/music-cord.svg)
+![license](https://img.shields.io/github/license/JGriffin34432/Music-cord.svg)
 ![DiscordBots Owner](https://discordbots.org/api/widget/owner/426484739742892032.svg)
 
 # Music-Cord
